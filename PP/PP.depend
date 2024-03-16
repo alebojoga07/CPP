@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1685364771 source:c:\users\dell\desktop\pp\app_1.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"intrebare.h"
+	"test.h"
+
+1685364762 c:\users\dell\desktop\pp\include\intrebare.h
+	<string>
+	<vector>
+
+1685364759 c:\users\dell\desktop\pp\include\test.h
+	<string>
+	<vector>
+	"intrebare.h"
+
+1685367964 source:c:\users\dell\desktop\pp\app_2.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"intrebare.h"
+	"test.h"
+
+1685364742 source:c:\users\dell\desktop\pp\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1685364766 source:c:\users\dell\desktop\pp\src\intrebare.cpp
+	"intrebare.h"
+
+1685364755 source:c:\users\dell\desktop\pp\src\test.cpp
+	"test.h"
+

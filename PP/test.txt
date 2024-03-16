@@ -1,0 +1,60 @@
+Test1
+Care este capitala Franței?
+A. Berlin
+B. Madrid
+C. Paris
+D. Roma
+C
+Câți ani are un secol?
+A. 10
+B. 50
+C. 100
+D. 1000
+C
+Care este culoarea cerului în timpul zilei?
+A. Roșu
+B. Verde
+C. Albastru
+D. Galben
+C
+
+Test2
+Câți ani are un secol?
+A. 10
+B. 50
+C. 100
+D. 1000
+C
+Care este cel mai mare ocean al lumii?
+A. Oceanul Atlantic
+B. Oceanul Indian
+C. Oceanul Pacific
+D. Oceanul Arctic
+C
+Ce instrument muzical este asociat cu Beethoven?
+A. Pianul
+B. Vioara
+C. Chitara
+D. Toba
+A
+
+Test3
+Care este capitala Franței?
+A. Berlin
+B. Madrid
+C. Paris
+D. Roma
+C
+Care este culoarea cerului în timpul zilei?
+A. Roșu
+B. Verde
+C. Albastru
+D. Galben
+C
+Ce instrument muzical este asociat cu Beethoven?
+A. Pianul
+B. Vioara
+C. Chitara
+D. Toba
+A
+

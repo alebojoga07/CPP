@@ -1,0 +1,32 @@
+5
+Care este capitala Franței?
+A. Berlin
+B. Madrid
+C. Paris
+D. Roma
+Raspuns corect: C
+Câți ani are un secol?
+A. 10
+B. 50
+C. 100
+D. 1000
+Raspuns corect: C
+Care este culoarea cerului în timpul zilei?
+A. Roșu
+B. Verde
+C. Albastru
+D. Galben
+Raspuns corect: C
+Care este cel mai mare ocean al lumii?
+A. Oceanul Atlantic
+B. Oceanul Indian
+C. Oceanul Pacific
+D. Oceanul Arctic
+Raspuns corect: C
+Ce instrument muzical este asociat cu Beethoven?
+A. Pianul
+B. Vioara
+C. Chitara
+D. Toba
+Raspuns corect: A
+
